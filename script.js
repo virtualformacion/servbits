@@ -1,6 +1,6 @@
 // ========== USUARIOS AUTORIZADOS ==========
 const USERS = [
-
+    { username: "zay", password: "zaypro2030", expiresAt: new Date("2026-12-31"), emails: ["vicenzohenaoj@gmail.com","solinachi019@gmail.com","malimayita@gmail.com","tauro202709@gmail.com","seven202709@gmail.com"] }
 ];
 
 const MAX_ATTEMPTS = 1000000;
