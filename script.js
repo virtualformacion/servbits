@@ -1,6 +1,6 @@
 // ========== USUARIOS AUTORIZADOS ==========
 const USERS = [
-    { username: "zay1234", password: "zay20230", expiresAt: new Date("2026-12-31"), emails: ["vicenzohenaoj@gmail.com","solinachi019@gmail.com","malimayita@gmail.com","tauro202709@gmail.com","seven202709@gmail.com"] },
+    { username: "zay", password: "zay20230", expiresAt: new Date("2026-12-31"), emails: ["vicenzohenaoj@gmail.com","solinachi019@gmail.com","malimayita@gmail.com","tauro202709@gmail.com","seven202709@gmail.com"] },
     { username: "julio12345", password: "julio12345", expiresAt: new Date("2027-08-12"), emails: [] }
 ];
 
