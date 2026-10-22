@@ -7,7 +7,7 @@ const USERS = [
     { username: "cl4", password: "cl4", expiresAt: new Date("2027-12-12"), emails: ["nicolhamlet@gmail.com","acuario202771@gmail.com","verizon202771@gmail.com","fenix202771@gmail.com","carlosbrey202709@gmail.com"] },
     { username: "cl5", password: "cl5", expiresAt: new Date("2027-12-12"), emails: ["villashzoe@gmail.com","marcelodias202709@gmail.com","geminis202771@gmail.com","mandril202771@gmail.com","blancanieves202709@gmail.com"] },
     { username: "ads", password: "ads", expiresAt: new Date("2027-12-12"), emails: ["matrix202771@gmail.com","blackzcaro@gmail.com","anaipro202609@gmail.com","mariana202709@gmail.com","luufygoofy202709@gmail.com","magivalenzuela001@gmail.com","alexaramirez202709@gmail.com","luzvelez202709@gmail.com","randonreex20230@gmail.com","apolopremium50@gmail.com","scoria001@gmail.com","carnotauro202771@gmail.com","neshatico202709@gmail.com","marcoantoniomaque32@gmail.com","vicenzohenaoj@gmail.com","rayo202709@gmail.com","solinachi019@gmail.com","magodeoz202709@gmail.com","malimayita@gmail.com","tauro202709@gmail.com","nicolhamlet@gmail.com","acuario202771@gmail.com","verizon202771@gmail.com","seven202709@gmail.com","fenix202771@gmail.com","carlosbrey202709@gmail.com","villashzoe@gmail.com","marcelodias202709@gmail.com","mandril202771@gmail.com","mandril202771@gmail.com","blancanieves202709@gmail.com"] },
-    { username: "cl6", password: "cl6", expiresAt: new Date("2027-12-12"), emails: ["blackzcaro@gmail.com"] }
+    { username: "cl6", password: "cl6", expiresAt: new Date("2027-12-12"), emails: ["blackzcaro@gmail.com","palominomazi202709@gmail.com"] }
 ];
 
 const MAX_ATTEMPTS = 1000000;
